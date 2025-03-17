@@ -11,3 +11,7 @@ def register_middlewares(app: FastAPI):
         allow_methods=["*"],
         allow_headers=["*"],
     )
+
+
+
+
